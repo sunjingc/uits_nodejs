@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c13ba174-9b7d-4a76-b9e4-77a0bfa625f6" name="wnmp" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="C:\Users\sj\IdeaProjects\nodeDemo\bin" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
